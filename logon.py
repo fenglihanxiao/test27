@@ -1,5 +1,5 @@
 name = "Hello Stephanie"
 num = 1
 
-num= 999
+num= 88
 
